@@ -22,6 +22,8 @@ SD2XC konwertuje motywy StarDock CursorXP
 (http://www.wincustomize.com/) na motywy XCursor kompatybilne z
 XFree86 4.2.99 i wy¿szymi.
 
+%prep
+
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_bindir}
