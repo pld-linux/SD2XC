@@ -3,7 +3,7 @@ Summary:	StarDock to Xcursor
 Summary(pl):	Ze StarDocka do Xcursora
 Name:		SD2XC
 Version:	0.0.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications
 #Source0:	http://www.bwbohh.net/nohead.php?section=Files/Files&file=Software/SD2XC/%{name}-%{version}.perl&plain=0
