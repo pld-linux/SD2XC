@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	StarDock to Xcursor
-Summary(pl.UTF-8):   Ze StarDocka do Xcursora
+Summary(pl.UTF-8):	Ze StarDocka do Xcursora
 Name:		SD2XC
 Version:	0.0.3
 Release:	2
