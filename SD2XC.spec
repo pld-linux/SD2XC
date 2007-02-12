@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	StarDock to Xcursor
-Summary(pl):	Ze StarDocka do Xcursora
+Summary(pl.UTF-8):   Ze StarDocka do Xcursora
 Name:		SD2XC
 Version:	0.0.3
 Release:	2
@@ -17,10 +17,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 SD2XC converts StarDock CursorXP themes (http://www.wincustomize.com/)
 to XCursor themes compatable with XFree86 4.2.99 and higher.
 
-%description -l pl
+%description -l pl.UTF-8
 SD2XC konwertuje motywy StarDock CursorXP
 (http://www.wincustomize.com/) na motywy XCursor kompatybilne z
-XFree86 4.2.99 i wyøszymi.
+XFree86 4.2.99 i wy≈ºszymi.
 
 %prep
 
